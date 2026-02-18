@@ -1,6 +1,6 @@
 # Hi, I'm Dat 👋
 
-### Founding Software Engineer @ FinX Connect
+### Founding Software Engineer @ [FinX Connect](https://finxconnect.net)
 
 I build scalable, secure fintech solutions. I love the "Founding Engineer" journey—turning complex ideas into production-ready code.
 
@@ -24,4 +24,4 @@ I’m not just an engineer; I’m a human who loves:
 * **People:** I’m highly sociable and love meeting new folks in the tech space.
 
 ### 📫 Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dat-mai-037a51273/)
