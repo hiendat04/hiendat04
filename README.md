@@ -35,8 +35,7 @@ I build scalable, secure fintech solutions. I love the "Founding Engineer" journ
 ---
 
 ### 📊 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/codenoob44?theme=dark&font=Recursive)](https://leetcode.com/u/codenoob44/)
-
+[![LeetCode Stats](https://leetcard.jacoblin.cool/codenoob44?ext=heatmap&theme=dark&font=Recursive)](https://leetcode.com/u/codenoob44/)
 ---
 
 ### 🎸 Outside the IDE
