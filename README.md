@@ -2,7 +2,7 @@
 
 ### Founding Software Engineer @ [FinX Connect](https://finxconnect.net)
 
-I build scalable, secure fintech solutions. I love the "Founding Engineer" journey—turning complex ideas into production-ready code.
+I build scalable, secure fintech solutions. I love the "Founding Engineer" journey—turning complex ideas into production-ready code. Currently, I am learning and developing Microservice architecture using Java, Spring Boot, Docker and Kubernetes.
 
 ---
 
@@ -31,6 +31,11 @@ I build scalable, secure fintech solutions. I love the "Founding Engineer" journ
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+---
+
+### 📊 LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/codenoob44?theme=dark&font=Recursive)](https://leetcode.com/u/codenoob44/)
 
 ---
 
