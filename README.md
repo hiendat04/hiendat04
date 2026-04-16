@@ -2,7 +2,7 @@
 
 ### Founding Software Engineer @ [FinX Connect](https://finxconnect.net)
 
-I build scalable, secure fintech solutions. I love the "Founding Engineer" journey—turning complex ideas into production-ready code. Currently, I am learning and developing Microservice architecture using Java, Spring Boot, Docker and Kubernetes.
+I build scalable, secure fintech solutions. I love the "Founding Engineer" journey—turning complex ideas into production-ready code. Currently, I am currently developing Microservice architecture using Java, Spring Boot, Docker and Kubernetes.
 
 ---
 
