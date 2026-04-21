@@ -1,8 +1,9 @@
 # Hi, I'm Dat 👋
 
-### Founding Software Engineer @ [FinX Connect](https://finxconnect.net)
+### Backend Software Engineer | Distributed Systems & MLOps
+I specialize in building high-availability, distributed banking systems and scalable backend architectures. I’m passionate about the intersection of robust engineering and machine learning operations, ensuring that complex models and data pipelines run as reliably as core banking services.
 
-I build scalable, secure fintech solutions. I love the "Founding Engineer" journey—turning complex ideas into production-ready code. Currently, I am developing Microservice architecture using Java, Spring Boot, Docker and Kubernetes.
+Currently focused on: Distributed Microservices, Event-Driven Architecture, and MLOps.
 
 ---
 
