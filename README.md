@@ -3,7 +3,7 @@
 ### Backend Software Engineer | Distributed Systems & MLOps
 I specialize in building high-availability, distributed systems and scalable backend architectures. I’m passionate about the intersection of robust engineering and machine learning operations, ensuring that complex models and data pipelines run as reliably as core banking services.
 
-**Currently focused on**: Distributed Microservices Event-Driven Architecture, and MLOps.
+**Currently focused on**: Cloud Computing, Distributed System, Microservices, Event-Driven Architecture, and MLOps.
 
 ---
 
