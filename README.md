@@ -1,6 +1,6 @@
 # Hi, I'm Dat 👋
 
-### Backend Software Engineer | Distributed Systems & MLOps
+### Backend Software Engineer | Data Engineering & MLOps Engineering
 I specialize in building high-availability, distributed systems and scalable backend architectures. I’m passionate about the intersection of robust engineering and machine learning operations, ensuring that complex models and data pipelines run as reliably as core banking services.
 
 **Currently focused on**: Cloud Computing, Backend Development, Data Engineering, MLOps Engineering and AI Engineering.
