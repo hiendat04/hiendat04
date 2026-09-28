@@ -40,7 +40,6 @@ M.S. in Computer Science (GPA 4.0) @ Wichita State University. I build reliable 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
----
 <!-- 
 ### 📊 LeetCode
 [![LeetCode Stats](https://leetcard.jacoblin.cool/codenoob44?ext=heatmap&theme=dark&font=Recursive)](https://leetcode.com/u/codenoob44/)
