@@ -1,4 +1,4 @@
-# Hi, I'm Dat 👋
+# Hi, I'm Dat 
 ### Backend & MLOps Engineer · I build the data pipelines and serving systems that ML runs on
 
 M.S. in Computer Science (GPA 4.0) @ Wichita State University. I build reliable backends and data platforms, and take ML models from training to production.
@@ -12,7 +12,7 @@ M.S. in Computer Science (GPA 4.0) @ Wichita State University. I build reliable 
 
 ---
 
-### 🛠️ Core Skills
+### Core Skills
 
 **Languages & Backend**
 
@@ -45,8 +45,5 @@ M.S. in Computer Science (GPA 4.0) @ Wichita State University. I build reliable 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/codenoob44?ext=heatmap&theme=dark&font=Recursive)](https://leetcode.com/u/codenoob44/)
 -->
 
-### 🎸 Outside the IDE
-Gym every day 🏋️‍♂️ · guitar 🎸 · Naruto fan 🍥 · always happy to meet people in tech.
-
-### 📫 Reach Me
+### Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dat-mai-037a51273/)
