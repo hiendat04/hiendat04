@@ -1,7 +1,7 @@
 # Hi, I'm Dat 
 ### Backend & MLOps Engineer · I build the data pipelines and serving systems that ML runs on
 
-M.S. in Computer Science (GPA 4.0) @ Wichita State University. I build reliable backends and data platforms, and take ML models from training to production.
+I build reliable backends and data platforms, and take ML models from training to production.
 
 **Featured: [FraudStream](https://github.com/hiendat04/fraudstream)**, a real-time fraud detection platform, end to end:
 * **Data:** Kafka + Flink streaming and a Spark / Iceberg lakehouse, orchestrated by Airflow
